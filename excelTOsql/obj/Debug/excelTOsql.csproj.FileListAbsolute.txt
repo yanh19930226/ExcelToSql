@@ -1,0 +1,18 @@
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\bin\Debug\excelTOsql.exe.config
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\obj\Debug\excelTOsql.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\obj\Debug\excelTOsql.Properties.Resources.resources
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\obj\Debug\excelTOsql.csproj.GenerateResource.Cache
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\obj\Debug\excelTOsql.Form1.resources
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\bin\Debug\excelTOsql.exe
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\bin\Debug\excelTOsql.pdb
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\obj\Debug\excelTOsql.exe
+D:\Program Files (x86)\VS文件\excelTOsql\excelTOsql\obj\Debug\excelTOsql.pdb
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\bin\Debug\excelTOsql.exe.config
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\bin\Debug\excelTOsql.exe
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\bin\Debug\excelTOsql.pdb
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\obj\Debug\excelTOsql.csprojAssemblyReference.cache
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\obj\Debug\excelTOsql.Form1.resources
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\obj\Debug\excelTOsql.Properties.Resources.resources
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\obj\Debug\excelTOsql.csproj.GenerateResource.cache
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\obj\Debug\excelTOsql.exe
+C:\Users\89136\Desktop\EXCEL to SQL\EXCEL to SQL\excelTOsql\obj\Debug\excelTOsql.pdb
